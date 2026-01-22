@@ -2,3 +2,8 @@ pandas
 scikit-learn
 joblib
 fastapi[all]
+uvicorn[standard]
+pydantic
+python-dotenv
+pytest
+httpx
